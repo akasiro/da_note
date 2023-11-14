@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "b2b4467348ab8adb",
+    "type": "split",
+    "children": [
+      {
+        "id": "63ab600df38a6ce3",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c341079c7aaa264e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2877d41f2f5d52e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adbfa80507f835ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca42eb9715bdfad1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db088610a6c75d11",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c3cdd141a2d4aaaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "0597cd5fe8f5ea53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f7d219f6d0d1a15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae13c1a7cb6b15ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3330ef9d3e461be0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f2f3772eda5f576f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "63ab600df38a6ce3",
+  "lastOpenFiles": [
+    "BookNote 网络是怎样连接的.md",
+    "BookNote 为什么.md",
+    "基础知识.md"
+  ]
+}
