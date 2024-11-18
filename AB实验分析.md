@@ -28,6 +28,17 @@
 	+ 这是无偏估计
 + 参考文献：[Diluted Treatment Effect Estimation for Trigger Analysis in Online Controlled Experiments](https://alexdeng.github.io/public/files/wsdm2015-dilution.pdf)
 
+
+
+
+
+
+
+
+
+
+
+
 # 2 DID
 + 使用场景：AA不平
 + 
